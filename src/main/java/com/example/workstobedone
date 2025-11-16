@@ -1,0 +1,33 @@
+JAVA Concept=> What? Why? When? How?
+
+1. JVM, JRE, JDK
+2. Datat Type - Integer, Long, Double, String
+3. Class | Object
+4. Arrays
+5. String | String Buffer | String Builder
+6. Opps Concept -> Absration, Inheritnce, Polymorphism, Encapsulation (Real Time Exampl)
+7. Method Overload | Method Overrinding?
+8. Constructors? -> Default | Parameter Constructor
+9. Access speficers - public | private | protected
+10. Static keyword -> Static block | static Method
+11. Final Method, Final variable, Final Block
+13. Exception Handling Hierarchy in Diagram => Try | Catch | Throw | Throws | Finaly Block
+14. List | Set
+15. List - Array List | Linked List => When to use which one?
+16. Set -> HashSet | TreeSet
+17. Maps -> Hash Map | Tree Map
+18. Loops -> For | While | Do While
+19. Streams - Java 8 () -> filtering | sorting | mapping | reducing | collecting
+
+
+18, Stack | Queue | Graphs (Optional)
+
+Core Java : Student Managament(Use Core Java)
+1. Student Create (Id, Name, Email, PhoneNo, Address, Department)
+2. Update Student Information By Id
+3. Search Function => id, Name, Email
+
+Day-4 Hours
+
+1. 1 Hours Theory
+2. 1 Project (Important)
