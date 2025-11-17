@@ -1,0 +1,75 @@
+
+bhavAani shree@LAPTOP-GIBPG7VK MINGW64 /d/bhavani/DayToDay (main)
+$ git init
+Reinitialized existing Git repository in D:/bhavani/DayToDay/.git/
+
+bhavAani shree@LAPTOP-GIBPG7VK MINGW64 /d/bhavani/DayToDay (main)
+$ git remote add origin https://github.com/00Bhavani/Daytoday.git
+
+bhavAani shree@LAPTOP-GIBPG7VK MINGW64 /d/bhavani/DayToDay (main)
+$ git add .
+
+bhavAani shree@LAPTOP-GIBPG7VK MINGW64 /d/bhavani/DayToDay (main)
+$ git commit -m "heyy here's the code"
+[main (root-commit) f14ff77] heyy here's the code
+ 4 files changed, 77 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 .idea/.gitignore
+ create mode 100644 pom.xml
+ create mode 100644 src/main/java/com/example/Main.java
+
+bhavAani shree@LAPTOP-GIBPG7VK MINGW64 /d/bhavani/DayToDay (main)
+$ git push -u origin master
+error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/00Bhavani/Daytoday.git'
+
+bhavAani shree@LAPTOP-GIBPG7VK MINGW64 /d/bhavani/DayToDay (main)
+$ git branch
+* main
+
+bhavAani shree@LAPTOP-GIBPG7VK MINGW64 /d/bhavani/DayToDay (main)
+$ git push -u origin main
+Enumerating objects: 12, done.
+Counting objects: 100% (12/12), done.
+Delta compression using up to 18 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (12/12), 1.66 KiB | 213.00 KiB/s, done.
+Total 12 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/00Bhavani/Daytoday.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+bhavAani shree@LAPTOP-GIBPG7VK MINGW64 /d/bhavani/DayToDay (main)
+$ git add .
+
+bhavAani shree@LAPTOP-GIBPG7VK MINGW64 /d/bhavani/DayToDay (main)
+$ git commit -m
+error: switch `m' requires a value
+
+bhavAani shree@LAPTOP-GIBPG7VK MINGW64 /d/bhavani/DayToDay (main)
+$ git commit -m "file done"
+[main 430f515] file done
+ 4 files changed, 60 insertions(+)
+ create mode 100644 .idea/encodings.xml
+ create mode 100644 .idea/misc.xml
+ create mode 100644 .idea/vcs.xml
+ create mode 100644 src/main/java/com/example/workstobedone
+
+bhavAani shree@LAPTOP-GIBPG7VK MINGW64 /d/bhavani/DayToDay (main)
+$ git branch
+* main
+
+bhavAani shree@LAPTOP-GIBPG7VK MINGW64 /d/bhavani/DayToDay (main)
+$ git push -u origin main
+Enumerating objects: 19, done.
+Counting objects: 100% (19/19), done.
+Delta compression using up to 18 threads
+Compressing objects: 100% (8/8), done.
+Writing objects: 100% (12/12), 1.96 KiB | 1003.00 KiB/s, done.
+Total 12 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/00Bhavani/Daytoday.git
+   f14ff77..430f515  main -> main
+branch 'main' set up to track 'origin/main'.
+
+bhavAani shree@LAPTOP-GIBPG7VK MINGW64 /d/bhavani/DayToDay (main)
+$
