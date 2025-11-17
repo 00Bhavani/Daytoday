@@ -1,6 +1,6 @@
 package com.in.datatypes;
 
-public class Int_prog {
+public class Datatypes_prog {
     public static void main(String[] args) {
         byte smallNumber = 100;
         short mediumNumber = 30000;
