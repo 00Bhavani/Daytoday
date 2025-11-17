@@ -1,4 +1,59 @@
 package com.in.datatypes;
+class ByteExample {
+    public static void main(String[] args) {
+        byte age = 25;
+        System.out.println("Byte value: " + age);
+    }
+}
+
+class ShortExample {
+    public static void main(String[] args) {
+        short temperature = -150;
+        System.out.println("Short value: " + temperature);
+    }
+}
+
+class IntExample {
+    public static void main(String[] args) {
+        int population = 1500000;
+        System.out.println("Int value: " + population);
+    }
+}
+
+class LongExample {
+    public static void main(String[] args) {
+        long distanceToSun = 15000000000L;
+        System.out.println("Long value: " + distanceToSun);
+    }
+}
+
+class FloatExample {
+    public static void main(String[] args) {
+        float pi = 3.14f;
+        System.out.println("Float value: " + pi);
+    }
+}
+
+class DoubleExample {
+    public static void main(String[] args) {
+        double gravity = 9.80665;
+        System.out.println("Double value: " + gravity);
+    }
+}
+
+class BooleanExample {
+    public static void main(String[] args) {
+        boolean isJavaFun = true;
+        System.out.println("Boolean value: " + isJavaFun);
+    }
+}
+
+class CharExample {
+    public static void main(String[] args) {
+        char grade = 'A';
+        System.out.println("Char value: " + grade);
+    }
+}
 
 public class Datatypes_prog {
     public static void main(String[] args) {
